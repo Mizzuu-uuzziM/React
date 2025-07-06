@@ -1,6 +1,6 @@
 import React from 'react';
 import { BrowserRouter as Router } from 'react-router-dom';
-import Tabs from './components/Tabs';
+import Tabs from './components/Tab.js';
 import './App.css';
 
 function App() {
